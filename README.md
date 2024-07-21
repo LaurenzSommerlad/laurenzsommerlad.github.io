@@ -1,4 +1,3 @@
-# Laurenz Sommerlad #
 Robotics, AI & Entrepreneurship | TUM Student | Sports 🏋️‍♂️🥋🏃🤿🏂 | Languages 🇩🇪🇺🇸🇫🇷🇪🇸🇯🇵🇪🇬
 
 
