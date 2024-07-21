@@ -16,14 +16,14 @@ Driven by a desire to make the world a better place, I am committed to solving t
 
 ## Contact ##
 <a href="https://laurenzsommerlad.com" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet" alt="Personal Website"/>
 </a>
 <a href="https://www.linkedin.com/in/laurenzsommerlad" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=LinkedIn&color=0062b1"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=LinkedIn&color=0062b1" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/Lauros_World" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=X/ Twitter&color=blue"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=X/ Twitter&color=blue" alt="X (Former Twitter)"/>
 </a>
 <a href="mailto:laurenz.sommerlad@tum-ai.com" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=Email&color=green"/>
+  <img src="https://img.shields.io/static/v1?label=Link&message=Email&color=green" alt="E-Mail"/>
 </a>
