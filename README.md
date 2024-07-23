@@ -25,7 +25,7 @@ Driven by a desire to make the world a better place, I am committed to solving t
 ## GitHub Projects and Repositories ##
 - <a href="https://github.laurenzsommerlad.com/TUM.ai-Makeathon2024-Amigo-Challenge/">TUM.ai Makeathon 2024 AI in Medicine Challenge</a>
   - 🥈 Won 2nd place by applying graph machine learning to a remote dataset with FeatureCloud to detect and classify rare child diseases
-- <a href="https://makeathon.tum-ai.com" target="_blank">TUM.ai Makeathon<a/> 2023 Applied AI Challenge
+- <a href="https://makeathon.tum-ai.com" target="_blank">TUM.ai Makeathon</a> 2023 Applied AI Challenge
   - Web-based chatbot that combines the strengths of ChatGPT, Cohere Summarizer, and a detailed questionnaire to ideate on AI use cases and business models
   - <a href="https://devpost.com/software/appliedai_canai" target="_blank" rel="nofollow noopener noreferrer">Devpost Submission</a>
   - <a href="https://github.com/LaurenzSommerlad/tum.ai-makeathon2023-frontend" target="_blank">Gatsby Frontend with Tailwind CSS</a>
