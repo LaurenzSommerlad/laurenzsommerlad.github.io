@@ -1,5 +1,9 @@
-<p>Robotics, AI & Entrepreneurship | TUM Student | Sports 🏋️‍♂️🥋🏃🤿🏂 | Languages 🇩🇪🇺🇸🇫🇷🇪🇸🇯🇵🇪🇬 </p>
+<a href="https://laurenzsommerlad.com" rel="me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+<a href="https://github.laurenzsommerlad.com" rel="me"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages - About Me"/></a>
+<a href="https://github.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+<a href="https://gitlab.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile"/></a>
 
+<p>Robotics, AI & Entrepreneurship | TUM Student | Sports 🏋️‍♂️🥋🏃🤿🏂 | Languages 🇩🇪🇺🇸🇫🇷🇪🇸🇯🇵🇪🇬 </p>
 
 ## About Me ##
 I love building things and connecting with people. I learned programming at 12, founded a student-led startup at 15, and joined a technical high school majoring in CS & Math.
@@ -14,16 +18,28 @@ Outside of my professional endeavors, I enjoy doing a lot of different sports li
 
 Driven by a desire to make the world a better place, I am committed to solving the most challenging problems with technology. Feel free to reach out — I am always up for a coffee and a good conversation! ☕
 
+## GitHub Stats ##
+<a href="https://github.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://github-readme-stats.vercel.app/api?username=laurenzsommerlad&show_icons=true&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage&hide=issues" alt="Laurenz Sommerlad's GitHub stats"/></a>
+<a href="https://profile.codersrank.io/user/laurenzsommerlad/" target="_blank" rel="me"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=laurenzsommerlad" alt="codersrank technology skills experience chart"/></a>
+
+## GitHub Projects and Repositories ##
+- <a href="https://github.laurenzsommerlad.com/TUM.ai-Makeathon2024-Amigo-Challenge/">TUM.ai Makeathon 2024 AI in Medicine Challenge</a>
+  - 🥈 Won 2nd place by applying graph machine learning to a remote dataset with FeatureCloud to detect and classify rare child diseases
+- <a href="https://makeathon.tum-ai.com" target="_blank">TUM.ai Makeathon<a/> 2023 Applied AI Challenge
+  - Web-based chatbot that combines the strengths of ChatGPT, Cohere Summarizer, and a detailed questionnaire to ideate on AI use cases and business models
+  - <a href="https://devpost.com/software/appliedai_canai" target="_blank" rel="nofollow noopener noreferrer">Devpost Submission</a>
+  - <a href="https://github.com/LaurenzSommerlad/tum.ai-makeathon2023-frontend" target="_blank">Gatsby Frontend with Tailwind CSS</a>
+  - <a href="https://github.com/LaurenzSommerlad/TUM.ai-Makeathon2023-API-Endpoint/" target="_blank">FastAPI Backend</a>
+- More coming soon...
+
 ## Contact ##
-<a href="https://laurenzsommerlad.com" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=PersonalWebsite&color=blueviolet" alt="Personal Website"/>
-</a>
-<a href="https://www.linkedin.com/in/laurenzsommerlad" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=LinkedIn&color=0062b1" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/Lauros_World" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=X/ Twitter&color=blue" alt="X (Former Twitter)"/>
-</a>
-<a href="mailto:laurenz.sommerlad@tum-ai.com" target="_blank" rel="me">
-  <img src="https://img.shields.io/static/v1?label=Link&message=Email&color=green" alt="E-Mail"/>
-</a>
+<a href="https://laurenzsommerlad.com" rel="me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+<a href="https://www.linkedin.com/in/laurenzsommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Lauros_World" target="_blank" rel="me"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Former Twitter)"/></a>
+<a href="https://www.instagram.com/laurenzsommerlad/" target="_blank" rel="me"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.threads.net/@laurenzsommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads"/></a>
+<a href="https://www.youtube.com/@LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Channel"/></a>
+<a href="https://www.facebook.com/LaurenzSommerlad.official/" target="_blank" rel="me"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://mastodon.social/@LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
+<a href="https://linktr.ee/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
+
