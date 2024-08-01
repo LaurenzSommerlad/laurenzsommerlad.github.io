@@ -22,7 +22,7 @@ Driven by a desire to make the world a better place, I am committed to solving t
 <a href="https://github.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://github-readme-stats.vercel.app/api?username=laurenzsommerlad&show_icons=true&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage&hide=issues" alt="Laurenz Sommerlad's GitHub stats"/></a>
 <a href="https://profile.codersrank.io/user/laurenzsommerlad/" target="_blank" rel="me"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=laurenzsommerlad" alt="codersrank technology skills experience chart"/></a>
 
-## GitHub Projects and Repositories ##
+## GitHub/ GitLab Projects and Repositories ##
 - <a href="https://github.laurenzsommerlad.com/TUM.ai-Makeathon2024-Amigo-Challenge/">TUM.ai Makeathon 2024 AI in Medicine Challenge</a>
   - 🥈 Won 2nd place by applying graph machine learning to a remote dataset with FeatureCloud to detect and classify rare child diseases
 - <a href="https://makeathon.tum-ai.com" target="_blank">TUM.ai Makeathon</a> 2023 Applied AI Challenge
@@ -30,6 +30,8 @@ Driven by a desire to make the world a better place, I am committed to solving t
   - <a href="https://devpost.com/software/appliedai_canai" target="_blank" rel="nofollow noopener noreferrer">Devpost Submission</a>
   - <a href="https://github.com/LaurenzSommerlad/tum.ai-makeathon2023-frontend" target="_blank">Gatsby Frontend with Tailwind CSS</a>
   - <a href="https://github.com/LaurenzSommerlad/TUM.ai-Makeathon2023-API-Endpoint/" target="_blank">FastAPI Backend</a>
+- <a href="https://gitlab.com/MyPotato" target="_blank">MyPotato</a> student-led startup
+  - Repository of <a href="https://my-potato.de" target="_blank">https://my-potato.de</a> website. Fresh and local food delivery by student-led startup in Niederwalgern, Germany
 - More coming soon...
 
 ## Contact ##
