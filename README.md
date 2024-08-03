@@ -18,6 +18,9 @@ Outside of my professional endeavors, I enjoy doing a lot of different sports li
 
 Driven by a desire to make the world a better place, I am committed to solving the most challenging problems with technology. Feel free to reach out — I am always up for a coffee and a good conversation! ☕
 
+## <a href="https://tum-ai.podbean.com" target="_blank">TUM.ai Podcast</a> | AI E-LAB Success Stories ##
+[![Florian Scherl: Revolution of AI Video Generation with Fast AI Movies | AI E-Lab Success Stories #2 | Laurenz Sommerlad](https://img.youtube.com/vi/DPJGAG9blO8/0.jpg)](https://www.youtube.com/watch?v=DPJGAG9blO8)
+
 ## GitHub Stats ##
 <a href="https://github.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://github-readme-stats.vercel.app/api?username=laurenzsommerlad&show_icons=true&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage&hide=issues" alt="Laurenz Sommerlad's GitHub stats"/></a>
 <a href="https://profile.codersrank.io/user/laurenzsommerlad/" target="_blank" rel="me"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=laurenzsommerlad" alt="codersrank technology skills experience chart"/></a>
