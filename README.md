@@ -3,7 +3,7 @@
 <a href="https://github.laurenzsommerlad.com" rel="me"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages - About Me"/></a>
 <a href="https://github.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
 <a href="https://gitlab.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile"/></a>
-<a href="#Contact"><img src="https://img.shields.io/badge/contact-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Contact"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/contact-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Contact"/></a>
 </nav>
 
 <p>Robotics, AI & Entrepreneurship | TUM Student | Sports 🏋️‍♂️🥋🏃🤿🏂 | Languages 🇩🇪🇺🇸🇫🇷🇪🇸🇯🇵🇪🇬 </p>
