@@ -1,7 +1,10 @@
+<nav>
 <a href="https://laurenzsommerlad.com" rel="me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 <a href="https://github.laurenzsommerlad.com" rel="me"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages - About Me"/></a>
 <a href="https://github.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
 <a href="https://gitlab.com/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile"/></a>
+<a href="#Contact"><img src="https://img.shields.io/badge/contact-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Contact"/></a>
+</nav>
 
 <p>Robotics, AI & Entrepreneurship | TUM Student | Sports 🏋️‍♂️🥋🏃🤿🏂 | Languages 🇩🇪🇺🇸🇫🇷🇪🇸🇯🇵🇪🇬 </p>
 
@@ -37,7 +40,8 @@ Driven by a desire to make the world a better place, I am committed to solving t
   - Repository of <a href="https://my-potato.de" target="_blank">https://my-potato.de</a> website. Fresh and local food delivery by student-led startup in Niederwalgern, Germany
 - More coming soon...
 
-## Contact ##
+<footer>
+  <h2>Contact</h2>
 <a href="https://laurenzsommerlad.com" rel="me"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 <a href="https://www.linkedin.com/in/laurenzsommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/Lauros_World" target="_blank" rel="me"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Former Twitter)"/></a>
@@ -48,3 +52,5 @@ Driven by a desire to make the world a better place, I am committed to solving t
 <a href="https://mastodon.social/@LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
 <a href="https://linktr.ee/LaurenzSommerlad" target="_blank" rel="me"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
 
+Copyright © 2024 Laurenz Sommerlad
+</footer>
