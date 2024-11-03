@@ -37,8 +37,8 @@ Driven by a desire to make the world a better place, I am committed to solving t
   - <a href="https://devpost.com/software/appliedai_canai" target="_blank" rel="nofollow noopener noreferrer">Devpost Submission</a>
   - <a href="https://github.com/LaurenzSommerlad/tum.ai-makeathon2023-frontend" target="_blank">Gatsby Frontend with Tailwind CSS</a>
   - <a href="https://github.com/LaurenzSommerlad/TUM.ai-Makeathon2023-API-Endpoint/" target="_blank">FastAPI Backend</a>
-- <a href="https://gitlab.com/MyPotato" target="_blank">MyPotato</a> student-led startup
-  - <a href="https://my-potato.de" target="_blank">Gitlab Repository</a> of MyPotato website. Fresh and local food delivery by student-led startup in Niederwalgern, Germany
+- <a href="https://my-potato.de" target="_blank">MyPotato</a> student-led startup
+  - <a href="https://gitlab.com/MyPotato" target="_blank">Gitlab Repository</a> of MyPotato website. Fresh and local food delivery by student-led startup in Niederwalgern, Germany
 - TUM.ai <a href="https://www.tum-ai.com/e-lab" target="_blank">E-Lab Website</a>
   - <a href="https://github.com/tum-ai/website" target="_blank">Github Repository</a> of TUM.ai Homepage
 - More coming soon...
